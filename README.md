@@ -5,5 +5,6 @@
     <br>Solutions to HackerRank problems
 </p>
 
-* [10 Days of JavaScript](#10-days-of-statistics)
+* [10 Days of JavaScript](#10-Days-of-JavaScript)
+* [30 Days of Code](#30-Days-of-Code)
 * [SQL](#SQL)
