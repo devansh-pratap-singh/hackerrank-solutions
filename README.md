@@ -7,4 +7,5 @@
 
 * [10 Days of JavaScript](#10-Days-of-JavaScript)
 * [30 Days of Code](#30-Days-of-Code)
+* [Python](#Python)
 * [SQL](#SQL)
