@@ -1,0 +1,6 @@
+e = int(input())
+set_e = set(input().split())
+f = int(input())
+set_f = set(input().split())
+total = set_e.union(set_f)
+print(len(total))

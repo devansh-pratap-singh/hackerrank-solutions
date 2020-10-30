@@ -1,0 +1,6 @@
+e = input()
+set_e = set(input().split(" "))
+f = input()
+set_f = set(input().split(" "))
+diff = set_e.difference(set_f)
+print(len(diff))
